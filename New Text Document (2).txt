@@ -1,0 +1,12 @@
+818436620314.dkr.ecr.eu-central-1.amazonaws.com/proxy_docker.io/istio/proxyv2:1.12.9
+082461646758.dkr.ecr.eu-central-1.amazonaws.com/proxy_docker.io/istio/proxyv2:1.12.9
+288932515620.dkr.ecr.eu-central-1.amazonaws.com/proxy_docker.io/istio/proxyv2:1.12.9
+
+116426314
+rds doc
+
+istio ctl
+
+In integration pods are in 1.12.9 but in git lab onboarding 1-10-4
+
+environments/integration/eu-central-1/applicative-k8s/TTS-IAM1/namespaces-sindri.yaml · main · Operation & Maintenance / Kubernetes / Addons / Onboarding · GitLab (cdsf.io)
